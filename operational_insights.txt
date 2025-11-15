@@ -1,0 +1,12 @@
+OPERATIONAL INSIGHTS FOR ATM CASH PLANNING
+================================================================================
+
+HIGH PRIORITY ACTIONS:
+  ✓ Yesterday's activity (importance: 0.026) is the strongest predictor. Implement daily cash level monitoring and next-day demand forecasting.
+  ✓ Weekly patterns (importance: 0.011) strongly influence demand. Schedule replenishments based on day-of-week trends.
+  ✓ Yesterday's activity (importance: 0.011) is the strongest predictor. Implement daily cash level monitoring and next-day demand forecasting.
+
+MEDIUM PRIORITY ACTIONS:
+  ✓ Recent average demand (importance: 0.682) matters. Use 7-day moving averages for replenishment planning.
+  ✓ Recent average demand (importance: 0.054) matters. Use 7-day moving averages for replenishment planning.
+
