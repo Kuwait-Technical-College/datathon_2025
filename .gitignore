@@ -22,6 +22,8 @@ wheels/
 
 # Virtual Environment
 venv/
+venv_challenge1/
+venv_challenge2/
 env/
 ENV/
 .venv
